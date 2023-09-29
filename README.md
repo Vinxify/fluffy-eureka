@@ -1,2 +1,2 @@
 # fluffy-eureka
-this one should worj
+this one should work
